@@ -10,7 +10,7 @@ the Excel in real life
 
 ## Case Study Description
 
-Project Description:
+**Project Description:**
 The given data set consists of a Customer Experience (CX) Inbound calling team for 23 days. Data includes
 Agent_Name, Agent_ID, Queue_Time [duration for which customer have to wait before they get
 connected to an agent], Time [time at which call was made by customer in a day], Time_Bucket [for
